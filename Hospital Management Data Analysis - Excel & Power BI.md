@@ -175,7 +175,8 @@ The Power BI dashboard consolidates the project's findings into visual summaries
 - Billing status and payment method comparisons
 - Interactive slicers for exploring the available data
 
-![Hospital Management Power BI Dashboard](dashboard.png)
+<img width="1341" height="756" alt="image" src="https://github.com/user-attachments/assets/14e3c5a6-9e35-4093-9d03-fc8a85099512" />
+
 
 ## Key Takeaways
 
@@ -185,16 +186,7 @@ The Excel workbook provides the detailed analytical foundation, while the Power 
 
 The findings are descriptive and limited to the records analyzed. They should not be interpreted as causal explanations or representative of hospitals beyond this dataset.
 
-## Project Structure
 
-```text
-hospital-management-data-analysis/
-│
-├── README.md
-├── hospital_management_analysis.xlsx
-├── hospital_management_dashboard.pbix
-└── dashboard.png
-```
 
 ## Project Skills Demonstrated
 
